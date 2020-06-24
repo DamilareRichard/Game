@@ -80,6 +80,10 @@ body, .quote-input{
 			padding: 0px;
 			box-sizing: border-box;
 		}
+		.timer{
+			top: 2.2rem;
+			font-size: 2.5rem;
+		}
 		
 	}
 
